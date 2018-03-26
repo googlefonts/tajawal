@@ -37,10 +37,11 @@ AscenderHHEA 9675
 DescenderHHEA -5325
 LineGapHHEA 3000
 LowestRecPpem 3
-FsType 4
+FsType 0
 WinAscent 14580
 WinDescent 5625
 XavgCharWidth 7215
+Codepagerange_0 00000041
 TTName 0 1 0 0 "(c) 2017 by Boutros International. All rights reserved."
 TTName 1 1 0 0 "Tajawal"
 TTName 2 1 0 0 "Light"

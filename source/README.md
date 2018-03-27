@@ -38,7 +38,7 @@ Production:
 In each font directory the four ASCII files (see above) and the Bezièr file must 
 be present.
 
-1. Start progeam IKED and select "File/Open" and open the Bezièr file
+1. Start program IKED and select "File/Open" and open the Bezièr file
 2. Select "File/Make OpenType Font"
 3. Select "Import" the layout file "arab.cha"
 4. Select "More" to get the UFM Dialog

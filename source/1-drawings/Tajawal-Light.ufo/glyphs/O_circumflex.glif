@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflex" format="1">
+ <advance width="654" />
+ <unicode hex="00d4" />
+ <outline>
+  <contour>
+   <point x="317" y="645" type="curve" smooth="yes" name="15" />
+   <point x="140" y="645" type="offcurve" name="14" />
+   <point x="50" y="484" type="offcurve" name="14" />
+   <point x="50" y="317" type="curve" smooth="yes" name="15" />
+   <point x="50" y="149" type="offcurve" name="14" />
+   <point x="140" y="-12" type="offcurve" name="14" />
+   <point x="317" y="-12" type="curve" smooth="yes" name="15" />
+   <point x="494" y="-12" type="offcurve" name="14" />
+   <point x="584" y="149" type="offcurve" name="14" />
+   <point x="584" y="317" type="curve" smooth="yes" name="15" />
+   <point x="584" y="484" type="offcurve" name="14" />
+   <point x="494" y="645" type="offcurve" name="14" />
+  </contour>
+  <contour>
+   <point x="317" y="37" type="curve" smooth="yes" name="15" />
+   <point x="179" y="37" type="offcurve" name="14" />
+   <point x="110" y="160" type="offcurve" name="14" />
+   <point x="110" y="317" type="curve" smooth="yes" name="15" />
+   <point x="110" y="473" type="offcurve" name="14" />
+   <point x="179" y="596" type="offcurve" name="14" />
+   <point x="317" y="596" type="curve" smooth="yes" name="15" />
+   <point x="455" y="596" type="offcurve" name="14" />
+   <point x="524" y="473" type="offcurve" name="14" />
+   <point x="524" y="317" type="curve" smooth="yes" name="15" />
+   <point x="524" y="160" type="offcurve" name="14" />
+   <point x="455" y="37" type="offcurve" name="14" />
+  </contour>
+  <contour>
+   <point x="297" y="822" type="line" smooth="no" name="13" />
+   <point x="226" y="720" type="line" smooth="no" name="13" />
+   <point x="268" y="720" type="line" smooth="no" name="13" />
+   <point x="316" y="787" type="line" smooth="no" name="13" />
+   <point x="361" y="720" type="line" smooth="no" name="13" />
+   <point x="404" y="720" type="line" smooth="no" name="13" />
+   <point x="334" y="822" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

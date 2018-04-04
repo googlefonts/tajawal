@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+ <advance width="290" />
+ <unicode hex="02dc" />
+ <outline>
+  <contour>
+   <point x="279" y="640" type="curve" smooth="no" name="13" />
+   <point x="258" y="654" type="line" smooth="no" name="13" />
+   <point x="248" y="634" type="offcurve" name="14" />
+   <point x="226" y="610" type="offcurve" name="14" />
+   <point x="208" y="610" type="curve" smooth="yes" name="15" />
+   <point x="190" y="610" type="offcurve" name="14" />
+   <point x="169" y="623" type="offcurve" name="14" />
+   <point x="157" y="631" type="curve" smooth="yes" name="15" />
+   <point x="139" y="643" type="offcurve" name="14" />
+   <point x="117" y="655" type="offcurve" name="14" />
+   <point x="91" y="655" type="curve" smooth="yes" name="15" />
+   <point x="60" y="655" type="offcurve" name="14" />
+   <point x="29" y="634" type="offcurve" name="14" />
+   <point x="11" y="588" type="curve" smooth="no" name="13" />
+   <point x="32" y="575" type="line" smooth="no" name="13" />
+   <point x="40" y="597" type="offcurve" name="14" />
+   <point x="68" y="618" type="offcurve" name="14" />
+   <point x="91" y="618" type="curve" smooth="yes" name="15" />
+   <point x="107" y="618" type="offcurve" name="14" />
+   <point x="126" y="607" type="offcurve" name="14" />
+   <point x="139" y="599" type="curve" smooth="no" name="13" />
+   <point x="143" y="597" type="offcurve" name="14" />
+   <point x="145" y="595" type="offcurve" name="14" />
+   <point x="148" y="594" type="curve" smooth="no" name="13" />
+   <point x="149" y="593" type="offcurve" name="14" />
+   <point x="151" y="592" type="offcurve" name="14" />
+   <point x="153" y="592" type="curve" smooth="no" name="13" />
+   <point x="166" y="584" type="offcurve" name="14" />
+   <point x="186" y="573" type="offcurve" name="14" />
+   <point x="204" y="573" type="curve" smooth="yes" name="15" />
+   <point x="236" y="573" type="offcurve" name="14" />
+   <point x="261" y="596" type="offcurve" name="14" />
+  </contour>
+ </outline>
+</glyph>

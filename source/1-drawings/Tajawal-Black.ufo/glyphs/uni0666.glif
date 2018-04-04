@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0666" format="1">
+ <advance width="434" />
+ <unicode hex="0666" />
+ <outline>
+  <contour>
+   <point x="204" y="-15" type="line" smooth="no" name="13" />
+   <point x="369" y="74" type="line" smooth="no" name="13" />
+   <point x="369" y="392" type="line" smooth="yes" name="15" />
+   <point x="369" y="499" type="offcurve" name="14" />
+   <point x="298" y="565" type="offcurve" name="14" />
+   <point x="188" y="565" type="curve" smooth="yes" name="15" />
+   <point x="25" y="565" type="line" smooth="no" name="13" />
+   <point x="25" y="405" type="line" smooth="no" name="13" />
+   <point x="171" y="405" type="line" smooth="yes" name="15" />
+   <point x="195" y="405" type="offcurve" name="14" />
+   <point x="204" y="397" type="offcurve" name="14" />
+   <point x="204" y="378" type="curve" smooth="yes" name="15" />
+  </contour>
+ </outline>
+</glyph>

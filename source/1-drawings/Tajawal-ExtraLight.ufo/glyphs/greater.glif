@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="1">
+ <advance width="517" />
+ <unicode hex="003e" />
+ <outline>
+  <contour>
+   <point x="446" y="241" type="line" smooth="no" name="13" />
+   <point x="71" y="16" type="line" smooth="no" name="13" />
+   <point x="71" y="-12" type="line" smooth="no" name="13" />
+   <point x="475" y="228" type="line" smooth="no" name="13" />
+   <point x="475" y="253" type="line" smooth="no" name="13" />
+   <point x="71" y="472" type="line" smooth="no" name="13" />
+   <point x="71" y="443" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

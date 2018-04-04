@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflex" format="1">
+ <advance width="528" />
+ <unicode hex="00c2" />
+ <outline>
+  <contour>
+   <point x="278" y="818" type="line" smooth="no" name="13" />
+   <point x="250" y="818" type="line" smooth="no" name="13" />
+   <point x="187" y="728" type="line" smooth="no" name="13" />
+   <point x="218" y="728" type="line" smooth="no" name="13" />
+   <point x="265" y="790" type="line" smooth="no" name="13" />
+   <point x="307" y="728" type="line" smooth="no" name="13" />
+   <point x="340" y="728" type="line" smooth="no" name="13" />
+  </contour>
+  <contour>
+   <point x="244" y="633" type="line" smooth="no" name="13" />
+   <point x="21" y="0" type="line" smooth="no" name="13" />
+   <point x="48" y="0" type="line" smooth="no" name="13" />
+   <point x="105" y="161" type="line" smooth="no" name="13" />
+   <point x="424" y="161" type="line" smooth="no" name="13" />
+   <point x="481" y="0" type="line" smooth="no" name="13" />
+   <point x="508" y="0" type="line" smooth="no" name="13" />
+   <point x="286" y="633" type="line" smooth="no" name="13" />
+  </contour>
+  <contour>
+   <point x="264" y="615" type="line" smooth="no" name="13" />
+   <point x="417" y="183" type="line" smooth="no" name="13" />
+   <point x="113" y="183" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

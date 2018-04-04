@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni064D" format="1">
+ <advance width="0" />
+ <unicode hex="064d" />
+ <outline>
+  <contour>
+   <point x="27" y="-239" type="line" smooth="no" name="13" />
+   <point x="315" y="-186" type="line" smooth="no" name="13" />
+   <point x="367" y="-74" type="line" smooth="no" name="13" />
+   <point x="79" y="-126" type="line" smooth="no" name="13" />
+  </contour>
+  <contour>
+   <point x="0" y="-399" type="line" smooth="no" name="13" />
+   <point x="288" y="-346" type="line" smooth="no" name="13" />
+   <point x="341" y="-234" type="line" smooth="no" name="13" />
+   <point x="53" y="-286" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

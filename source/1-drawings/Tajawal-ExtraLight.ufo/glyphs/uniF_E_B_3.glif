@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEB3" format="1">
+ <advance width="925" />
+ <unicode hex="feb3" />
+ <outline>
+  <contour>
+   <point x="-10" y="0" type="line" smooth="no" name="13" />
+   <point x="40" y="0" type="line" smooth="yes" name="15" />
+   <point x="112" y="0" type="offcurve" name="14" />
+   <point x="161" y="31" type="offcurve" name="14" />
+   <point x="186" y="80" type="curve" smooth="no" name="13" />
+   <point x="211" y="31" type="offcurve" name="14" />
+   <point x="260" y="0" type="offcurve" name="14" />
+   <point x="331" y="0" type="curve" smooth="yes" name="15" />
+   <point x="356" y="0" type="line" smooth="yes" name="15" />
+   <point x="428" y="0" type="offcurve" name="14" />
+   <point x="478" y="31" type="offcurve" name="14" />
+   <point x="503" y="80" type="curve" smooth="no" name="13" />
+   <point x="528" y="31" type="offcurve" name="14" />
+   <point x="577" y="0" type="offcurve" name="14" />
+   <point x="649" y="0" type="curve" smooth="yes" name="15" />
+   <point x="674" y="0" type="line" smooth="yes" name="15" />
+   <point x="675" y="0" type="offcurve" name="14" />
+   <point x="675" y="0" type="offcurve" name="14" />
+   <point x="676" y="0" type="curve" smooth="yes" name="15" />
+   <point x="782" y="0" type="offcurve" name="14" />
+   <point x="835" y="72" type="offcurve" name="14" />
+   <point x="835" y="165" type="curve" smooth="yes" name="15" />
+   <point x="835" y="418" type="line" smooth="no" name="13" />
+   <point x="807" y="403" type="line" smooth="no" name="13" />
+   <point x="807" y="164" type="line" smooth="yes" name="15" />
+   <point x="807" y="71" type="offcurve" name="14" />
+   <point x="761" y="22" type="offcurve" name="14" />
+   <point x="670" y="22" type="curve" smooth="yes" name="15" />
+   <point x="654" y="22" type="line" smooth="yes" name="15" />
+   <point x="563" y="22" type="offcurve" name="14" />
+   <point x="517" y="71" type="offcurve" name="14" />
+   <point x="517" y="164" type="curve" smooth="yes" name="15" />
+   <point x="517" y="374" type="line" smooth="no" name="13" />
+   <point x="490" y="360" type="line" smooth="no" name="13" />
+   <point x="490" y="164" type="line" smooth="yes" name="15" />
+   <point x="490" y="71" type="offcurve" name="14" />
+   <point x="443" y="22" type="offcurve" name="14" />
+   <point x="352" y="22" type="curve" smooth="yes" name="15" />
+   <point x="337" y="22" type="line" smooth="yes" name="15" />
+   <point x="246" y="22" type="offcurve" name="14" />
+   <point x="199" y="71" type="offcurve" name="14" />
+   <point x="199" y="164" type="curve" smooth="yes" name="15" />
+   <point x="199" y="331" type="line" smooth="no" name="13" />
+   <point x="172" y="316" type="line" smooth="no" name="13" />
+   <point x="172" y="164" type="line" smooth="yes" name="15" />
+   <point x="172" y="71" type="offcurve" name="14" />
+   <point x="126" y="22" type="offcurve" name="14" />
+   <point x="35" y="22" type="curve" smooth="yes" name="15" />
+   <point x="-10" y="22" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

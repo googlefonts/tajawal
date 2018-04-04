@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE94" format="1">
+ <advance width="551" />
+ <unicode hex="fe94" />
+ <outline>
+  <contour>
+   <point x="152" y="565" type="curve" smooth="yes" name="15" />
+   <point x="198" y="565" type="offcurve" name="14" />
+   <point x="225" y="596" type="offcurve" name="14" />
+   <point x="225" y="641" type="curve" smooth="yes" name="15" />
+   <point x="225" y="683" type="offcurve" name="14" />
+   <point x="198" y="714" type="offcurve" name="14" />
+   <point x="152" y="714" type="curve" smooth="yes" name="15" />
+   <point x="107" y="714" type="offcurve" name="14" />
+   <point x="77" y="685" type="offcurve" name="14" />
+   <point x="77" y="641" type="curve" smooth="yes" name="15" />
+   <point x="77" y="595" type="offcurve" name="14" />
+   <point x="107" y="565" type="offcurve" name="14" />
+  </contour>
+  <contour>
+   <point x="318" y="565" type="curve" smooth="yes" name="15" />
+   <point x="364" y="565" type="offcurve" name="14" />
+   <point x="392" y="596" type="offcurve" name="14" />
+   <point x="392" y="641" type="curve" smooth="yes" name="15" />
+   <point x="392" y="683" type="offcurve" name="14" />
+   <point x="364" y="714" type="offcurve" name="14" />
+   <point x="318" y="714" type="curve" smooth="yes" name="15" />
+   <point x="274" y="714" type="offcurve" name="14" />
+   <point x="244" y="685" type="offcurve" name="14" />
+   <point x="244" y="641" type="curve" smooth="yes" name="15" />
+   <point x="244" y="595" type="offcurve" name="14" />
+   <point x="274" y="565" type="offcurve" name="14" />
+  </contour>
+  <contour>
+   <point x="480" y="140" type="line" smooth="yes" name="15" />
+   <point x="437" y="140" type="offcurve" name="14" />
+   <point x="422" y="155" type="offcurve" name="14" />
+   <point x="422" y="198" type="curve" smooth="yes" name="15" />
+   <point x="422" y="539" type="line" smooth="no" name="13" />
+   <point x="277" y="463" type="line" smooth="no" name="13" />
+   <point x="277" y="443" type="line" smooth="no" name="13" />
+   <point x="260" y="448" type="offcurve" name="14" />
+   <point x="242" y="451" type="offcurve" name="14" />
+   <point x="223" y="451" type="curve" smooth="yes" name="15" />
+   <point x="124" y="451" type="offcurve" name="14" />
+   <point x="30" y="365" type="offcurve" name="14" />
+   <point x="30" y="236" type="curve" smooth="yes" name="15" />
+   <point x="30" y="126" type="offcurve" name="14" />
+   <point x="106" y="29" type="offcurve" name="14" />
+   <point x="227" y="29" type="curve" smooth="yes" name="15" />
+   <point x="262" y="29" type="offcurve" name="14" />
+   <point x="296" y="36" type="offcurve" name="14" />
+   <point x="325" y="55" type="curve" smooth="no" name="13" />
+   <point x="358" y="20" type="offcurve" name="14" />
+   <point x="406" y="0" type="offcurve" name="14" />
+   <point x="466" y="0" type="curve" smooth="yes" name="15" />
+   <point x="578" y="0" type="line" smooth="no" name="13" />
+   <point x="578" y="140" type="line" smooth="no" name="13" />
+  </contour>
+  <contour>
+   <point x="277" y="302" type="curve" smooth="no" name="13" />
+   <point x="277" y="192" type="line" smooth="yes" name="15" />
+   <point x="277" y="184" type="offcurve" name="14" />
+   <point x="277" y="176" type="offcurve" name="14" />
+   <point x="278" y="168" type="curve" smooth="no" name="13" />
+   <point x="269" y="158" type="offcurve" name="14" />
+   <point x="256" y="152" type="offcurve" name="14" />
+   <point x="236" y="152" type="curve" smooth="yes" name="15" />
+   <point x="195" y="152" type="offcurve" name="14" />
+   <point x="173" y="186" type="offcurve" name="14" />
+   <point x="173" y="233" type="curve" smooth="yes" name="15" />
+   <point x="173" y="280" type="offcurve" name="14" />
+   <point x="196" y="314" type="offcurve" name="14" />
+   <point x="234" y="314" type="curve" smooth="yes" name="15" />
+   <point x="248" y="314" type="offcurve" name="14" />
+   <point x="263" y="311" type="offcurve" name="14" />
+  </contour>
+ </outline>
+</glyph>

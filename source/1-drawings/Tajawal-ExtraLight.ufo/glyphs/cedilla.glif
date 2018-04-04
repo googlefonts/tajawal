@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+ <advance width="200" />
+ <unicode hex="00b8" />
+ <outline>
+  <contour>
+   <point x="83" y="-35" type="curve" smooth="no" name="13" />
+   <point x="89" y="10" type="line" smooth="no" name="13" />
+   <point x="68" y="14" type="line" smooth="no" name="13" />
+   <point x="50" y="-56" type="line" smooth="no" name="13" />
+   <point x="67" y="-54" type="offcurve" name="14" />
+   <point x="76" y="-53" type="offcurve" name="14" />
+   <point x="88" y="-53" type="curve" smooth="yes" name="15" />
+   <point x="89" y="-53" type="offcurve" name="14" />
+   <point x="89" y="-53" type="offcurve" name="14" />
+   <point x="90" y="-53" type="curve" smooth="yes" name="15" />
+   <point x="128" y="-53" type="offcurve" name="14" />
+   <point x="148" y="-67" type="offcurve" name="14" />
+   <point x="148" y="-94" type="curve" smooth="yes" name="15" />
+   <point x="148" y="-123" type="offcurve" name="14" />
+   <point x="127" y="-138" type="offcurve" name="14" />
+   <point x="88" y="-138" type="curve" smooth="yes" name="15" />
+   <point x="65" y="-138" type="offcurve" name="14" />
+   <point x="50" y="-132" type="offcurve" name="14" />
+   <point x="34" y="-120" type="curve" smooth="no" name="13" />
+   <point x="25" y="-145" type="line" smooth="no" name="13" />
+   <point x="47" y="-156" type="offcurve" name="14" />
+   <point x="66" y="-160" type="offcurve" name="14" />
+   <point x="87" y="-160" type="curve" smooth="yes" name="15" />
+   <point x="141" y="-160" type="offcurve" name="14" />
+   <point x="175" y="-131" type="offcurve" name="14" />
+   <point x="175" y="-93" type="curve" smooth="yes" name="15" />
+   <point x="175" y="-58" type="offcurve" name="14" />
+   <point x="147" y="-32" type="offcurve" name="14" />
+   <point x="109" y="-32" type="curve" smooth="yes" name="15" />
+   <point x="101" y="-32" type="offcurve" name="14" />
+   <point x="94" y="-33" type="offcurve" name="14" />
+  </contour>
+ </outline>
+</glyph>

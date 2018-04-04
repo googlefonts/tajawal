@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="1">
+ <advance width="429" />
+ <unicode hex="0141" />
+ <outline>
+  <contour>
+   <point x="125" y="333" type="line" smooth="no" name="13" />
+   <point x="125" y="633" type="line" smooth="no" name="13" />
+   <point x="98" y="633" type="line" smooth="no" name="13" />
+   <point x="98" y="320" type="line" smooth="no" name="13" />
+   <point x="25" y="291" type="line" smooth="no" name="13" />
+   <point x="25" y="265" type="line" smooth="no" name="13" />
+   <point x="98" y="295" type="line" smooth="no" name="13" />
+   <point x="98" y="0" type="line" smooth="no" name="13" />
+   <point x="389" y="0" type="line" smooth="no" name="13" />
+   <point x="389" y="22" type="line" smooth="no" name="13" />
+   <point x="125" y="22" type="line" smooth="no" name="13" />
+   <point x="125" y="308" type="line" smooth="no" name="13" />
+   <point x="298" y="379" type="line" smooth="no" name="13" />
+   <point x="298" y="404" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

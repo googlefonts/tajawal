@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greaterequal" format="1">
+ <advance width="514" />
+ <unicode hex="2265" />
+ <outline>
+  <contour>
+   <point x="486" y="0" type="line" smooth="no" name="13" />
+   <point x="486" y="108" type="line" smooth="no" name="13" />
+   <point x="29" y="108" type="line" smooth="no" name="13" />
+   <point x="29" y="0" type="line" smooth="no" name="13" />
+  </contour>
+  <contour>
+   <point x="486" y="231" type="curve" smooth="no" name="13" />
+   <point x="486" y="391" type="line" smooth="no" name="13" />
+   <point x="30" y="479" type="line" smooth="no" name="13" />
+   <point x="30" y="369" type="line" smooth="no" name="13" />
+   <point x="391" y="313" type="line" smooth="no" name="13" />
+   <point x="30" y="218" type="line" smooth="no" name="13" />
+   <point x="30" y="108" type="line" smooth="no" name="13" />
+   <point x="122" y="133" type="offcurve" name="14" />
+   <point x="216" y="158" type="offcurve" name="14" />
+   <point x="309" y="184" type="curve" smooth="yes" name="15" />
+   <point x="368" y="200" type="offcurve" name="14" />
+   <point x="427" y="215" type="offcurve" name="14" />
+  </contour>
+ </outline>
+</glyph>

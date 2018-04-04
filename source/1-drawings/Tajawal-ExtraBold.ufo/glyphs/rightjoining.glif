@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightjoining" format="1">
+ <advance width="147" />
+ <unicode hex="e03d" />
+ <outline>
+  <contour>
+   <point x="52" y="0" type="curve" smooth="yes" name="15" />
+   <point x="164" y="0" type="line" smooth="no" name="13" />
+   <point x="164" y="140" type="line" smooth="no" name="13" />
+   <point x="66" y="140" type="line" smooth="yes" name="15" />
+   <point x="23" y="140" type="offcurve" name="14" />
+   <point x="8" y="155" type="offcurve" name="14" />
+   <point x="8" y="198" type="curve" smooth="yes" name="15" />
+   <point x="8" y="450" type="line" smooth="no" name="13" />
+   <point x="-137" y="373" type="line" smooth="no" name="13" />
+   <point x="-137" y="192" type="line" smooth="yes" name="15" />
+   <point x="-137" y="76" type="offcurve" name="14" />
+   <point x="-64" y="0" type="offcurve" name="14" />
+  </contour>
+ </outline>
+</glyph>

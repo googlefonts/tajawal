@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni064E" format="1">
+ <advance width="0" />
+ <unicode hex="064e" />
+ <outline>
+  <contour>
+   <point x="0" y="565" type="line" smooth="no" name="13" />
+   <point x="263" y="613" type="line" smooth="no" name="13" />
+   <point x="308" y="709" type="line" smooth="no" name="13" />
+   <point x="45" y="662" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="1">
+ <advance width="530" />
+ <unicode hex="00dd" />
+ <outline>
+  <contour>
+   <point x="15" y="633" type="line" smooth="no" name="13" />
+   <point x="229" y="248" type="line" smooth="no" name="13" />
+   <point x="229" y="0" type="line" smooth="no" name="13" />
+   <point x="302" y="0" type="line" smooth="no" name="13" />
+   <point x="302" y="248" type="line" smooth="no" name="13" />
+   <point x="515" y="633" type="line" smooth="no" name="13" />
+   <point x="437" y="633" type="line" smooth="no" name="13" />
+   <point x="265" y="313" type="line" smooth="no" name="13" />
+   <point x="93" y="633" type="line" smooth="no" name="13" />
+  </contour>
+  <contour>
+   <point x="366" y="818" type="line" smooth="no" name="13" />
+   <point x="293" y="818" type="line" smooth="no" name="13" />
+   <point x="239" y="706" type="line" smooth="no" name="13" />
+   <point x="281" y="706" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="product" format="1">
+ <advance width="653" />
+ <unicode hex="220f" />
+ <outline>
+  <contour>
+   <point x="563" y="633" type="line" smooth="no" name="13" />
+   <point x="90" y="633" type="line" smooth="no" name="13" />
+   <point x="90" y="-179" type="line" smooth="no" name="13" />
+   <point x="145" y="-179" type="line" smooth="no" name="13" />
+   <point x="145" y="581" type="line" smooth="no" name="13" />
+   <point x="507" y="581" type="line" smooth="no" name="13" />
+   <point x="507" y="-179" type="line" smooth="no" name="13" />
+   <point x="563" y="-179" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

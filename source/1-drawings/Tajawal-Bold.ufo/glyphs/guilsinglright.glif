@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="1">
+ <advance width="373" />
+ <unicode hex="203a" />
+ <outline>
+  <contour>
+   <point x="42" y="1" type="line" smooth="no" name="13" />
+   <point x="151" y="4" type="offcurve" name="14" />
+   <point x="268" y="108" type="offcurve" name="14" />
+   <point x="321" y="245" type="curve" smooth="no" name="13" />
+   <point x="268" y="380" type="offcurve" name="14" />
+   <point x="151" y="484" type="offcurve" name="14" />
+   <point x="42" y="487" type="curve" smooth="no" name="13" />
+   <point x="42" y="372" type="line" smooth="no" name="13" />
+   <point x="104" y="348" type="offcurve" name="14" />
+   <point x="154" y="308" type="offcurve" name="14" />
+   <point x="186" y="245" type="curve" smooth="no" name="13" />
+   <point x="154" y="180" type="offcurve" name="14" />
+   <point x="104" y="142" type="offcurve" name="14" />
+   <point x="42" y="117" type="curve" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

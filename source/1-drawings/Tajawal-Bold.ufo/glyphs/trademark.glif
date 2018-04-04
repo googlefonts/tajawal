@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+ <advance width="655" />
+ <unicode hex="2122" />
+ <outline>
+  <contour>
+   <point x="15" y="633" type="line" smooth="no" name="13" />
+   <point x="15" y="559" type="line" smooth="no" name="13" />
+   <point x="88" y="559" type="line" smooth="no" name="13" />
+   <point x="88" y="395" type="line" smooth="no" name="13" />
+   <point x="167" y="395" type="line" smooth="no" name="13" />
+   <point x="167" y="559" type="line" smooth="no" name="13" />
+   <point x="237" y="559" type="line" smooth="no" name="13" />
+   <point x="237" y="633" type="line" smooth="no" name="13" />
+  </contour>
+  <contour>
+   <point x="485" y="395" type="line" smooth="no" name="13" />
+   <point x="513" y="503" type="line" smooth="no" name="13" />
+   <point x="513" y="395" type="line" smooth="no" name="13" />
+   <point x="587" y="395" type="line" smooth="no" name="13" />
+   <point x="587" y="633" type="line" smooth="no" name="13" />
+   <point x="479" y="633" type="line" smooth="no" name="13" />
+   <point x="440" y="469" type="line" smooth="no" name="13" />
+   <point x="395" y="633" type="line" smooth="no" name="13" />
+   <point x="287" y="633" type="line" smooth="no" name="13" />
+   <point x="287" y="395" type="line" smooth="no" name="13" />
+   <point x="363" y="395" type="line" smooth="no" name="13" />
+   <point x="363" y="508" type="line" smooth="no" name="13" />
+   <point x="391" y="395" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

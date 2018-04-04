@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="1">
+ <advance width="375" />
+ <unicode hex="005b" />
+ <outline>
+  <contour>
+   <point x="317" y="-140" type="line" smooth="no" name="13" />
+   <point x="317" y="-40" type="line" smooth="no" name="13" />
+   <point x="208" y="-40" type="line" smooth="no" name="13" />
+   <point x="208" y="541" type="line" smooth="no" name="13" />
+   <point x="317" y="541" type="line" smooth="no" name="13" />
+   <point x="317" y="645" type="line" smooth="no" name="13" />
+   <point x="78" y="645" type="line" smooth="no" name="13" />
+   <point x="78" y="-140" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

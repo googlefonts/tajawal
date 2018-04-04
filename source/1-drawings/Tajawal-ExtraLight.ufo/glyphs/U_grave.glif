@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ugrave" format="1">
+ <advance width="605" />
+ <unicode hex="00d9" />
+ <outline>
+  <contour>
+   <point x="90" y="634" type="line" smooth="no" name="13" />
+   <point x="90" y="260" type="line" smooth="yes" name="15" />
+   <point x="90" y="82" type="offcurve" name="14" />
+   <point x="164" y="-12" type="offcurve" name="14" />
+   <point x="303" y="-12" type="curve" smooth="no" name="13" />
+   <point x="303" y="-12" type="offcurve" name="14" />
+   <point x="303" y="-12" type="offcurve" name="14" />
+   <point x="304" y="-12" type="curve" smooth="yes" name="15" />
+   <point x="442" y="-12" type="offcurve" name="14" />
+   <point x="516" y="82" type="offcurve" name="14" />
+   <point x="516" y="259" type="curve" smooth="yes" name="15" />
+   <point x="516" y="633" type="line" smooth="no" name="13" />
+   <point x="489" y="633" type="line" smooth="no" name="13" />
+   <point x="489" y="241" type="line" smooth="yes" name="15" />
+   <point x="489" y="91" type="offcurve" name="14" />
+   <point x="424" y="10" type="offcurve" name="14" />
+   <point x="304" y="10" type="curve" smooth="yes" name="15" />
+   <point x="183" y="10" type="offcurve" name="14" />
+   <point x="117" y="91" type="offcurve" name="14" />
+   <point x="117" y="241" type="curve" smooth="yes" name="15" />
+   <point x="117" y="633" type="line" smooth="no" name="13" />
+  </contour>
+  <contour>
+   <point x="243" y="818" type="line" smooth="no" name="13" />
+   <point x="310" y="728" type="line" smooth="no" name="13" />
+   <point x="327" y="728" type="line" smooth="no" name="13" />
+   <point x="286" y="818" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

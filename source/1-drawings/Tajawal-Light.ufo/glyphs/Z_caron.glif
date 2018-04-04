@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zcaron" format="1">
+ <advance width="451" />
+ <unicode hex="017d" />
+ <outline>
+  <contour>
+   <point x="420" y="633" type="line" smooth="no" name="13" />
+   <point x="34" y="633" type="line" smooth="no" name="13" />
+   <point x="34" y="584" type="line" smooth="no" name="13" />
+   <point x="364" y="584" type="line" smooth="no" name="13" />
+   <point x="25" y="49" type="line" smooth="no" name="13" />
+   <point x="25" y="0" type="line" smooth="no" name="13" />
+   <point x="426" y="0" type="line" smooth="no" name="13" />
+   <point x="426" y="49" type="line" smooth="no" name="13" />
+   <point x="84" y="49" type="line" smooth="no" name="13" />
+   <point x="420" y="579" type="line" smooth="no" name="13" />
+  </contour>
+  <contour>
+   <point x="242" y="726" type="line" smooth="no" name="13" />
+   <point x="312" y="828" type="line" smooth="no" name="13" />
+   <point x="269" y="828" type="line" smooth="no" name="13" />
+   <point x="224" y="761" type="line" smooth="no" name="13" />
+   <point x="176" y="828" type="line" smooth="no" name="13" />
+   <point x="134" y="828" type="line" smooth="no" name="13" />
+   <point x="205" y="726" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

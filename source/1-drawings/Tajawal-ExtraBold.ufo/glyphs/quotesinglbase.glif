@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesinglbase" format="1">
+ <advance width="340" />
+ <unicode hex="201a" />
+ <outline>
+  <contour>
+   <point x="149" y="-1" type="curve" smooth="yes" name="15" />
+   <point x="187" y="-1" type="line" smooth="no" name="13" />
+   <point x="187" y="-132" type="line" smooth="no" name="13" />
+   <point x="265" y="-120" type="line" smooth="no" name="13" />
+   <point x="265" y="85" type="line" smooth="yes" name="15" />
+   <point x="265" y="152" type="offcurve" name="14" />
+   <point x="226" y="198" type="offcurve" name="14" />
+   <point x="164" y="198" type="curve" smooth="yes" name="15" />
+   <point x="95" y="198" type="offcurve" name="14" />
+   <point x="60" y="143" type="offcurve" name="14" />
+   <point x="60" y="92" type="curve" smooth="yes" name="15" />
+   <point x="60" y="44" type="offcurve" name="14" />
+   <point x="90" y="-1" type="offcurve" name="14" />
+  </contour>
+ </outline>
+</glyph>

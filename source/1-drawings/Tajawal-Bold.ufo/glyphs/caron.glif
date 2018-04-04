@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+ <advance width="269" />
+ <unicode hex="02c7" />
+ <outline>
+  <contour>
+   <point x="174" y="509" type="line" smooth="no" name="13" />
+   <point x="184" y="523" type="offcurve" name="14" />
+   <point x="194" y="537" type="offcurve" name="14" />
+   <point x="204" y="552" type="curve" smooth="yes" name="15" />
+   <point x="228" y="586" type="offcurve" name="14" />
+   <point x="252" y="620" type="offcurve" name="14" />
+   <point x="275" y="655" type="curve" smooth="no" name="13" />
+   <point x="193" y="655" type="line" smooth="no" name="13" />
+   <point x="136" y="568" type="line" smooth="no" name="13" />
+   <point x="131" y="568" type="line" smooth="no" name="13" />
+   <point x="76" y="655" type="line" smooth="no" name="13" />
+   <point x="-6" y="655" type="line" smooth="no" name="13" />
+   <point x="96" y="509" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

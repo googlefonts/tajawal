@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+ <advance width="749" />
+ <unicode hex="004e" />
+ <outline>
+  <contour>
+   <point x="77" y="0" type="line" smooth="no" name="13" />
+   <point x="228" y="0" type="line" smooth="no" name="13" />
+   <point x="228" y="391" type="line" smooth="no" name="13" />
+   <point x="291" y="307" type="offcurve" name="14" />
+   <point x="471" y="84" type="offcurve" name="14" />
+   <point x="543" y="0" type="curve" smooth="no" name="13" />
+   <point x="673" y="0" type="line" smooth="no" name="13" />
+   <point x="673" y="633" type="line" smooth="no" name="13" />
+   <point x="519" y="633" type="line" smooth="no" name="13" />
+   <point x="519" y="228" type="line" smooth="no" name="13" />
+   <point x="455" y="313" type="offcurve" name="14" />
+   <point x="273" y="544" type="offcurve" name="14" />
+   <point x="203" y="633" type="curve" smooth="no" name="13" />
+   <point x="77" y="633" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

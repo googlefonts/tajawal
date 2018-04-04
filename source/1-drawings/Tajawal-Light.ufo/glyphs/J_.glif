@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J" format="1">
+ <advance width="220" />
+ <unicode hex="004a" />
+ <outline>
+  <contour>
+   <point x="130" y="633" type="line" smooth="no" name="13" />
+   <point x="75" y="633" type="line" smooth="no" name="13" />
+   <point x="75" y="-34" type="line" smooth="yes" name="15" />
+   <point x="75" y="-107" type="offcurve" name="14" />
+   <point x="39" y="-123" type="offcurve" name="14" />
+   <point x="4" y="-123" type="curve" smooth="yes" name="15" />
+   <point x="-18" y="-123" type="offcurve" name="14" />
+   <point x="-45" y="-116" type="offcurve" name="14" />
+   <point x="-66" y="-105" type="curve" smooth="no" name="13" />
+   <point x="-85" y="-134" type="line" smooth="no" name="13" />
+   <point x="-56" y="-152" type="offcurve" name="14" />
+   <point x="-16" y="-168" type="offcurve" name="14" />
+   <point x="22" y="-168" type="curve" smooth="yes" name="15" />
+   <point x="91" y="-168" type="offcurve" name="14" />
+   <point x="130" y="-120" type="offcurve" name="14" />
+   <point x="130" y="-41" type="curve" smooth="yes" name="15" />
+  </contour>
+ </outline>
+</glyph>

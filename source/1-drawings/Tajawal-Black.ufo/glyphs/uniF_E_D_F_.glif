@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEDF" format="1">
+ <advance width="363" />
+ <unicode hex="fedf" />
+ <outline>
+  <contour>
+   <point x="-10" y="0" type="line" smooth="no" name="13" />
+   <point x="50" y="0" type="line" smooth="yes" name="15" />
+   <point x="195" y="0" type="offcurve" name="14" />
+   <point x="273" y="102" type="offcurve" name="14" />
+   <point x="273" y="228" type="curve" smooth="yes" name="15" />
+   <point x="273" y="645" type="line" smooth="no" name="13" />
+   <point x="108" y="557" type="line" smooth="no" name="13" />
+   <point x="108" y="229" type="line" smooth="yes" name="15" />
+   <point x="108" y="175" type="offcurve" name="14" />
+   <point x="93" y="160" type="offcurve" name="14" />
+   <point x="43" y="160" type="curve" smooth="yes" name="15" />
+   <point x="-10" y="160" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

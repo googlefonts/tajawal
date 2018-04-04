@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEDE" format="1">
+ <advance width="742" />
+ <unicode hex="fede" />
+ <outline>
+  <contour>
+   <point x="706" y="81" type="line" smooth="yes" name="15" />
+   <point x="639" y="81" type="offcurve" name="14" />
+   <point x="602" y="113" type="offcurve" name="14" />
+   <point x="602" y="181" type="curve" smooth="yes" name="15" />
+   <point x="602" y="645" type="line" smooth="no" name="13" />
+   <point x="515" y="599" type="line" smooth="no" name="13" />
+   <point x="515" y="63" type="line" smooth="yes" name="15" />
+   <point x="515" y="-39" type="offcurve" name="14" />
+   <point x="448" y="-109" type="offcurve" name="14" />
+   <point x="333" y="-109" type="curve" smooth="yes" name="15" />
+   <point x="214" y="-109" type="offcurve" name="14" />
+   <point x="151" y="-21" type="offcurve" name="14" />
+   <point x="151" y="76" type="curve" smooth="yes" name="15" />
+   <point x="151" y="129" type="offcurve" name="14" />
+   <point x="167" y="185" type="offcurve" name="14" />
+   <point x="197" y="231" type="curve" smooth="no" name="13" />
+   <point x="111" y="212" type="line" smooth="no" name="13" />
+   <point x="83" y="171" type="offcurve" name="14" />
+   <point x="70" y="116" type="offcurve" name="14" />
+   <point x="70" y="67" type="curve" smooth="yes" name="15" />
+   <point x="70" y="-61" type="offcurve" name="14" />
+   <point x="155" y="-190" type="offcurve" name="14" />
+   <point x="333" y="-190" type="curve" smooth="yes" name="15" />
+   <point x="482" y="-190" type="offcurve" name="14" />
+   <point x="582" y="-102" type="offcurve" name="14" />
+   <point x="599" y="24" type="curve" smooth="no" name="13" />
+   <point x="626" y="9" type="offcurve" name="14" />
+   <point x="658" y="0" type="offcurve" name="14" />
+   <point x="696" y="0" type="curve" smooth="yes" name="15" />
+   <point x="772" y="0" type="line" smooth="no" name="13" />
+   <point x="772" y="81" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

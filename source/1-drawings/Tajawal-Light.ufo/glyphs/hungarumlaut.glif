@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+ <advance width="263" />
+ <unicode hex="02dd" />
+ <outline>
+  <contour>
+   <point x="128" y="655" type="line" smooth="no" name="13" />
+   <point x="73" y="655" type="line" smooth="no" name="13" />
+   <point x="25" y="553" type="line" smooth="no" name="13" />
+   <point x="52" y="553" type="line" smooth="no" name="13" />
+  </contour>
+  <contour>
+   <point x="238" y="655" type="line" smooth="no" name="13" />
+   <point x="183" y="655" type="line" smooth="no" name="13" />
+   <point x="135" y="553" type="line" smooth="no" name="13" />
+   <point x="162" y="553" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

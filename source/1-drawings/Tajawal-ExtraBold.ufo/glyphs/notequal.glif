@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notequal" format="1">
+ <advance width="514" />
+ <unicode hex="2260" />
+ <outline>
+  <contour>
+   <point x="251" y="104" type="line" smooth="no" name="13" />
+   <point x="486" y="104" type="line" smooth="no" name="13" />
+   <point x="486" y="213" type="line" smooth="no" name="13" />
+   <point x="319" y="213" type="line" smooth="no" name="13" />
+   <point x="337" y="241" type="line" smooth="no" name="13" />
+   <point x="486" y="241" type="line" smooth="no" name="13" />
+   <point x="486" y="349" type="line" smooth="no" name="13" />
+   <point x="404" y="349" type="line" smooth="no" name="13" />
+   <point x="471" y="454" type="line" smooth="no" name="13" />
+   <point x="356" y="454" type="line" smooth="no" name="13" />
+   <point x="290" y="349" type="line" smooth="no" name="13" />
+   <point x="29" y="349" type="line" smooth="no" name="13" />
+   <point x="29" y="241" type="line" smooth="no" name="13" />
+   <point x="223" y="241" type="line" smooth="no" name="13" />
+   <point x="205" y="213" type="line" smooth="no" name="13" />
+   <point x="29" y="213" type="line" smooth="no" name="13" />
+   <point x="29" y="104" type="line" smooth="no" name="13" />
+   <point x="137" y="104" type="line" smooth="no" name="13" />
+   <point x="72" y="0" type="line" smooth="no" name="13" />
+   <point x="186" y="0" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

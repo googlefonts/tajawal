@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pi" format="1">
+ <advance width="561" />
+ <unicode hex="03c0" />
+ <outline>
+  <contour>
+   <point x="347" y="0" type="line" smooth="no" name="13" />
+   <point x="470" y="0" type="line" smooth="no" name="13" />
+   <point x="470" y="357" type="line" smooth="no" name="13" />
+   <point x="529" y="357" type="line" smooth="no" name="13" />
+   <point x="529" y="454" type="line" smooth="no" name="13" />
+   <point x="32" y="454" type="line" smooth="no" name="13" />
+   <point x="32" y="358" type="line" smooth="no" name="13" />
+   <point x="85" y="358" type="line" smooth="no" name="13" />
+   <point x="85" y="0" type="line" smooth="no" name="13" />
+   <point x="209" y="0" type="line" smooth="no" name="13" />
+   <point x="209" y="357" type="line" smooth="no" name="13" />
+   <point x="347" y="357" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

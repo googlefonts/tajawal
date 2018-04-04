@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+ <advance width="643" />
+ <unicode hex="2026" />
+ <outline>
+  <contour>
+   <point x="143" y="-5" type="curve" smooth="yes" name="15" />
+   <point x="178" y="-5" type="offcurve" name="14" />
+   <point x="196" y="17" type="offcurve" name="14" />
+   <point x="196" y="48" type="curve" smooth="yes" name="15" />
+   <point x="196" y="77" type="offcurve" name="14" />
+   <point x="179" y="100" type="offcurve" name="14" />
+   <point x="143" y="100" type="curve" smooth="yes" name="15" />
+   <point x="109" y="100" type="offcurve" name="14" />
+   <point x="90" y="79" type="offcurve" name="14" />
+   <point x="90" y="50" type="curve" smooth="yes" name="15" />
+   <point x="90" y="19" type="offcurve" name="14" />
+   <point x="107" y="-5" type="offcurve" name="14" />
+  </contour>
+  <contour>
+   <point x="336" y="-5" type="curve" smooth="yes" name="15" />
+   <point x="371" y="-5" type="offcurve" name="14" />
+   <point x="389" y="17" type="offcurve" name="14" />
+   <point x="389" y="48" type="curve" smooth="yes" name="15" />
+   <point x="389" y="77" type="offcurve" name="14" />
+   <point x="372" y="100" type="offcurve" name="14" />
+   <point x="336" y="100" type="curve" smooth="yes" name="15" />
+   <point x="302" y="100" type="offcurve" name="14" />
+   <point x="283" y="79" type="offcurve" name="14" />
+   <point x="283" y="50" type="curve" smooth="yes" name="15" />
+   <point x="283" y="19" type="offcurve" name="14" />
+   <point x="300" y="-5" type="offcurve" name="14" />
+  </contour>
+  <contour>
+   <point x="530" y="-5" type="curve" smooth="yes" name="15" />
+   <point x="565" y="-5" type="offcurve" name="14" />
+   <point x="583" y="17" type="offcurve" name="14" />
+   <point x="583" y="48" type="curve" smooth="yes" name="15" />
+   <point x="583" y="77" type="offcurve" name="14" />
+   <point x="566" y="100" type="offcurve" name="14" />
+   <point x="530" y="100" type="curve" smooth="yes" name="15" />
+   <point x="496" y="100" type="offcurve" name="14" />
+   <point x="477" y="79" type="offcurve" name="14" />
+   <point x="477" y="50" type="curve" smooth="yes" name="15" />
+   <point x="477" y="19" type="offcurve" name="14" />
+   <point x="494" y="-5" type="offcurve" name="14" />
+  </contour>
+ </outline>
+</glyph>

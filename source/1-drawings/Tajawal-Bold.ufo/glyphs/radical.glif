@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+ <advance width="552" />
+ <unicode hex="221a" />
+ <outline>
+  <contour>
+   <point x="65" y="321" type="line" smooth="no" name="13" />
+   <point x="100" y="210" type="line" smooth="no" name="13" />
+   <point x="173" y="233" type="line" smooth="no" name="13" />
+   <point x="234" y="0" type="line" smooth="no" name="13" />
+   <point x="360" y="0" type="line" smooth="no" name="13" />
+   <point x="562" y="700" type="line" smooth="no" name="13" />
+   <point x="440" y="700" type="line" smooth="no" name="13" />
+   <point x="290" y="115" type="line" smooth="no" name="13" />
+   <point x="245" y="371" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

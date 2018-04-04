@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="1">
+ <advance width="576" />
+ <unicode hex="00c0" />
+ <outline>
+  <contour>
+   <point x="240" y="633" type="line" smooth="no" name="13" />
+   <point x="15" y="0" type="line" smooth="no" name="13" />
+   <point x="74" y="0" type="line" smooth="no" name="13" />
+   <point x="128" y="152" type="line" smooth="no" name="13" />
+   <point x="419" y="152" type="line" smooth="no" name="13" />
+   <point x="474" y="0" type="line" smooth="no" name="13" />
+   <point x="530" y="0" type="line" smooth="no" name="13" />
+   <point x="306" y="633" type="line" smooth="no" name="13" />
+  </contour>
+  <contour>
+   <point x="272" y="578" type="line" smooth="no" name="13" />
+   <point x="403" y="199" type="line" smooth="no" name="13" />
+   <point x="142" y="199" type="line" smooth="no" name="13" />
+  </contour>
+  <contour>
+   <point x="237" y="721" type="line" smooth="no" name="13" />
+   <point x="264" y="721" type="line" smooth="no" name="13" />
+   <point x="216" y="823" type="line" smooth="no" name="13" />
+   <point x="161" y="823" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

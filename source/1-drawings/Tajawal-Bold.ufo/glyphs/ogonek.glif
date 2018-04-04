@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+ <advance width="217" />
+ <unicode hex="02db" />
+ <outline>
+  <contour>
+   <point x="46" y="4" type="line" smooth="no" name="13" />
+   <point x="35" y="-6" type="offcurve" name="14" />
+   <point x="-2" y="-42" type="offcurve" name="14" />
+   <point x="-2" y="-84" type="curve" smooth="yes" name="15" />
+   <point x="-2" y="-147" type="offcurve" name="14" />
+   <point x="58" y="-166" type="offcurve" name="14" />
+   <point x="104" y="-166" type="curve" smooth="yes" name="15" />
+   <point x="147" y="-166" type="offcurve" name="14" />
+   <point x="186" y="-153" type="offcurve" name="14" />
+   <point x="191" y="-151" type="curve" smooth="no" name="13" />
+   <point x="174" y="-96" type="line" smooth="no" name="13" />
+   <point x="164" y="-99" type="offcurve" name="14" />
+   <point x="141" y="-104" type="offcurve" name="14" />
+   <point x="120" y="-104" type="curve" smooth="yes" name="15" />
+   <point x="98" y="-104" type="offcurve" name="14" />
+   <point x="79" y="-99" type="offcurve" name="14" />
+   <point x="79" y="-70" type="curve" smooth="yes" name="15" />
+   <point x="79" y="-39" type="offcurve" name="14" />
+   <point x="102" y="-11" type="offcurve" name="14" />
+   <point x="114" y="4" type="curve" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

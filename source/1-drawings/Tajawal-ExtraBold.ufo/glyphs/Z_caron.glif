@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zcaron" format="1">
+ <advance width="484" />
+ <unicode hex="017d" />
+ <outline>
+  <contour>
+   <point x="466" y="633" type="line" smooth="no" name="13" />
+   <point x="21" y="633" type="line" smooth="no" name="13" />
+   <point x="21" y="521" type="line" smooth="no" name="13" />
+   <point x="301" y="521" type="line" smooth="no" name="13" />
+   <point x="211" y="390" type="offcurve" name="14" />
+   <point x="109" y="242" type="offcurve" name="14" />
+   <point x="12" y="99" type="curve" smooth="no" name="13" />
+   <point x="12" y="0" type="line" smooth="no" name="13" />
+   <point x="473" y="0" type="line" smooth="no" name="13" />
+   <point x="473" y="112" type="line" smooth="no" name="13" />
+   <point x="193" y="112" type="line" smooth="no" name="13" />
+   <point x="283" y="245" type="offcurve" name="14" />
+   <point x="380" y="387" type="offcurve" name="14" />
+   <point x="466" y="517" type="curve" smooth="no" name="13" />
+  </contour>
+  <contour>
+   <point x="299" y="676" type="line" smooth="no" name="13" />
+   <point x="309" y="691" type="offcurve" name="14" />
+   <point x="320" y="707" type="offcurve" name="14" />
+   <point x="330" y="722" type="curve" smooth="yes" name="15" />
+   <point x="355" y="757" type="offcurve" name="14" />
+   <point x="380" y="792" type="offcurve" name="14" />
+   <point x="404" y="828" type="curve" smooth="no" name="13" />
+   <point x="317" y="828" type="line" smooth="no" name="13" />
+   <point x="258" y="738" type="line" smooth="no" name="13" />
+   <point x="253" y="738" type="line" smooth="no" name="13" />
+   <point x="197" y="828" type="line" smooth="no" name="13" />
+   <point x="110" y="828" type="line" smooth="no" name="13" />
+   <point x="216" y="676" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

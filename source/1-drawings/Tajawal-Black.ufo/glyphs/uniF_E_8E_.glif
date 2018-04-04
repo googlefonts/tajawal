@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE8E" format="1">
+ <advance width="382" />
+ <unicode hex="fe8e" />
+ <outline>
+  <contour>
+   <point x="284" y="0" type="curve" smooth="yes" name="15" />
+   <point x="392" y="0" type="line" smooth="no" name="13" />
+   <point x="392" y="160" type="line" smooth="no" name="13" />
+   <point x="299" y="160" type="line" smooth="yes" name="15" />
+   <point x="264" y="160" type="offcurve" name="14" />
+   <point x="255" y="169" type="offcurve" name="14" />
+   <point x="255" y="204" type="curve" smooth="yes" name="15" />
+   <point x="255" y="645" type="line" smooth="no" name="13" />
+   <point x="90" y="558" type="line" smooth="no" name="13" />
+   <point x="90" y="196" type="line" smooth="yes" name="15" />
+   <point x="90" y="77" type="offcurve" name="14" />
+   <point x="167" y="0" type="offcurve" name="14" />
+  </contour>
+ </outline>
+</glyph>

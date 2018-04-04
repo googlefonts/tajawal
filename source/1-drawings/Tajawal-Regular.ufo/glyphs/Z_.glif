@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="1">
+ <advance width="465" />
+ <unicode hex="005a" />
+ <outline>
+  <contour>
+   <point x="433" y="566" type="line" smooth="no" name="13" />
+   <point x="433" y="633" type="line" smooth="no" name="13" />
+   <point x="34" y="633" type="line" smooth="no" name="13" />
+   <point x="34" y="570" type="line" smooth="no" name="13" />
+   <point x="354" y="570" type="line" smooth="no" name="13" />
+   <point x="25" y="60" type="line" smooth="no" name="13" />
+   <point x="25" y="0" type="line" smooth="no" name="13" />
+   <point x="440" y="0" type="line" smooth="no" name="13" />
+   <point x="440" y="63" type="line" smooth="no" name="13" />
+   <point x="111" y="63" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="1">
+ <advance width="509" />
+ <unicode hex="2264" />
+ <outline>
+  <contour>
+   <point x="93" y="288" type="line" smooth="no" name="13" />
+   <point x="466" y="418" type="line" smooth="no" name="13" />
+   <point x="466" y="479" type="line" smooth="no" name="13" />
+   <point x="42" y="327" type="line" smooth="no" name="13" />
+   <point x="42" y="250" type="line" smooth="no" name="13" />
+   <point x="466" y="108" type="line" smooth="no" name="13" />
+   <point x="466" y="169" type="line" smooth="no" name="13" />
+  </contour>
+  <contour>
+   <point x="467" y="0" type="line" smooth="no" name="13" />
+   <point x="467" y="55" type="line" smooth="no" name="13" />
+   <point x="42" y="55" type="line" smooth="no" name="13" />
+   <point x="42" y="0" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

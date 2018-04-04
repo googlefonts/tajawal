@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEFB" format="1">
+ <advance width="690" />
+ <unicode hex="fefb" />
+ <outline>
+  <contour>
+   <point x="475" y="578" type="line" smooth="no" name="13" />
+   <point x="475" y="209" type="line" smooth="yes" name="15" />
+   <point x="475" y="145" type="offcurve" name="14" />
+   <point x="451" y="121" type="offcurve" name="14" />
+   <point x="390" y="121" type="curve" smooth="yes" name="15" />
+   <point x="341" y="121" type="line" smooth="no" name="13" />
+   <point x="341" y="515" type="line" smooth="no" name="13" />
+   <point x="215" y="448" type="line" smooth="no" name="13" />
+   <point x="215" y="121" type="line" smooth="no" name="13" />
+   <point x="83" y="121" type="line" smooth="no" name="13" />
+   <point x="20" y="0" type="line" smooth="no" name="13" />
+   <point x="397" y="0" type="line" smooth="yes" name="15" />
+   <point x="530" y="0" type="offcurve" name="14" />
+   <point x="601" y="92" type="offcurve" name="14" />
+   <point x="601" y="208" type="curve" smooth="yes" name="15" />
+   <point x="601" y="645" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

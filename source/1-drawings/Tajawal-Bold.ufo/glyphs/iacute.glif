@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="1">
+ <advance width="261" />
+ <unicode hex="00ed" />
+ <outline>
+  <contour>
+   <point x="212" y="454" type="line" smooth="no" name="13" />
+   <point x="88" y="454" type="line" smooth="no" name="13" />
+   <point x="88" y="0" type="line" smooth="no" name="13" />
+   <point x="212" y="0" type="line" smooth="no" name="13" />
+  </contour>
+  <contour>
+   <point x="301" y="655" type="line" smooth="no" name="13" />
+   <point x="177" y="655" type="line" smooth="no" name="13" />
+   <point x="105" y="509" type="line" smooth="no" name="13" />
+   <point x="192" y="509" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>

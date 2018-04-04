@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotcenterar" format="1">
+ <advance width="0" />
+ <unicode hex="e028" />
+ <outline>
+  <contour>
+   <point x="83" y="-59" type="curve" smooth="yes" name="15" />
+   <point x="134" y="-59" type="offcurve" name="14" />
+   <point x="165" y="-24" type="offcurve" name="14" />
+   <point x="165" y="25" type="curve" smooth="yes" name="15" />
+   <point x="165" y="72" type="offcurve" name="14" />
+   <point x="134" y="107" type="offcurve" name="14" />
+   <point x="83" y="107" type="curve" smooth="yes" name="15" />
+   <point x="34" y="107" type="offcurve" name="14" />
+   <point x="0" y="74" type="offcurve" name="14" />
+   <point x="0" y="25" type="curve" smooth="yes" name="15" />
+   <point x="0" y="-25" type="offcurve" name="14" />
+   <point x="34" y="-59" type="offcurve" name="14" />
+  </contour>
+ </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+ <advance width="428" />
+ <unicode hex="2021" />
+ <outline>
+  <contour>
+   <point x="153" y="119" type="line" smooth="no" name="13" />
+   <point x="153" y="-44" type="line" smooth="no" name="13" />
+   <point x="272" y="-44" type="line" smooth="no" name="13" />
+   <point x="272" y="119" type="line" smooth="no" name="13" />
+   <point x="396" y="119" type="line" smooth="no" name="13" />
+   <point x="396" y="220" type="line" smooth="no" name="13" />
+   <point x="272" y="220" type="line" smooth="no" name="13" />
+   <point x="272" y="353" type="line" smooth="no" name="13" />
+   <point x="396" y="353" type="line" smooth="no" name="13" />
+   <point x="396" y="454" type="line" smooth="no" name="13" />
+   <point x="272" y="454" type="line" smooth="no" name="13" />
+   <point x="272" y="631" type="line" smooth="no" name="13" />
+   <point x="153" y="631" type="line" smooth="no" name="13" />
+   <point x="153" y="454" type="line" smooth="no" name="13" />
+   <point x="32" y="454" type="line" smooth="no" name="13" />
+   <point x="32" y="353" type="line" smooth="no" name="13" />
+   <point x="153" y="353" type="line" smooth="no" name="13" />
+   <point x="153" y="220" type="line" smooth="no" name="13" />
+   <point x="32" y="220" type="line" smooth="no" name="13" />
+   <point x="32" y="119" type="line" smooth="no" name="13" />
+  </contour>
+ </outline>
+</glyph>
